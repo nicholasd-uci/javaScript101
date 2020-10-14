@@ -14,7 +14,7 @@
 
 ## LINKS
 
-- [Code Refactor Link] Coming Soon!
+- [javaScript101 Link] Coming Soon!
 - [Github Repo Link](https://github.com/nicholasd-uci/javaScript101)
 
 - - -
