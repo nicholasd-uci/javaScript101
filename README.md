@@ -17,7 +17,7 @@
 ## LINKS
 
 - [javaScript101 Link](https://nicholasd-uci.github.io/javaScript101/index.html)
-- [Github Repo Link](https://github.com/nicholasd-uci/javaScript101)
+- [GitHub Repo Link](https://github.com/nicholasd-uci/javaScript101)
 - [Nicholas Dallas GitHub](https://github.com/nicholasd-uci)
 
 - - -
